@@ -1,2 +1,3 @@
 - leo.puygrenier@gmail.com  
 - +33 6 51 09 05 26
+- [linkedin](https://www.linkedin.com/in/lpuygrenier/)

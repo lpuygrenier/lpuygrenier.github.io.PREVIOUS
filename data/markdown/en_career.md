@@ -1,0 +1,2 @@
+- april 2023 &rarr; september 2023 : *6 months internship* **SQLI**
+- 2018 &rarr; 2023 : **Master degree** *Software Engineering*  
