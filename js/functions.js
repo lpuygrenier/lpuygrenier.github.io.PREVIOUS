@@ -74,8 +74,10 @@ function from_cmd_name_to_cmd_content(cmd_name){
         return en_contact;
       case 'help':
         return en_help;
-      case 'stuff':
-        return en_stuff;
+      case 'career':
+        return en_career;
+      case 'softskills':
+        return en_softskills;
       case 'home':
         return en_home;
       default:
@@ -102,8 +104,10 @@ function from_cmd_name_to_cmd_content(cmd_name){
         return fr_contact;
       case 'help':
         return fr_help;
-      case 'stuff':
-        return fr_stuff;
+      case 'career':
+        return fr_career;
+      case 'softskills':
+        return fr_softskills;
       case 'home':
         return fr_home;
       default:

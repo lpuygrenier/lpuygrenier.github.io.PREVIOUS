@@ -1,15 +1,10 @@
 C/C++   
+C#  
 Python   
 Java  
-Ocaml  
 HTML5/CSS  
-JavaScript (VueJS)   
-  
-Altarica/Frama C  
-  
-Compilation programs used :  
-- meaven  
-- gradle  
-- ant   
-- Makefile/CMake  
-  
+JavaScript/TypeScript  
+SQL (Oracle & Postgre SQL)  
+Assembly  
+Ocaml    
+Altarica/Frama C

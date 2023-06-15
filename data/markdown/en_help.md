@@ -1,15 +1,13 @@
-These are the commands availables :    
-    
-- about   
-- contact   
-- help   
-- experiences   
-- languages  
-- skills   
-- help  
-- formation  
-- projects  
-- me  
-- stuff  
+These are the commands availables :  
 - home  
+- help  
+- about  
+- career  
+- contact  
+- formation  
+- skills  
+- softskills  
+- experiences  
+- languages  
+- projects  
 - clear  
