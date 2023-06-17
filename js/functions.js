@@ -117,8 +117,14 @@ function from_cmd_name_to_cmd_content(cmd_name){
 }
 
 function force_cmd_input_selection() {
-  cmd_input.focus(); 
-  cmd_input.select(); 
+  if (!isMobileDevice()) {
+    cmd_input.focus(); 
+    cmd_input.select(); 
+  }
+}
+
+function isMobileDevice() {
+  return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 }
 
 // Main 
