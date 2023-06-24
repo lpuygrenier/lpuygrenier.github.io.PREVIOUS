@@ -6,6 +6,10 @@
 	- pthreads   
 	- file descriptors   
 	- system calls    
+- Script programming
+    - Python
+	- Bash
+	- Powershell
 - High optimization programming  
 	- OpenMP   
 	- OpenCL   

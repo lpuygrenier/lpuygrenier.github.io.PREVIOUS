@@ -1,5 +1,5 @@
 **SQLI Internship formation**, Pessac -
-*Java SpringBoot / Angular*
+*Java SpringBoot / Angular*  
 April 2023
 
 **University of Bordeaux**, Bordeaux - *Computer Science Master - Software Engineering (in progress)*     
