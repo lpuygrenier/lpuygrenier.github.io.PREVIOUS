@@ -1,4 +1,6 @@
 - Internship SQLI (6 months)
+*Java SpringBoot / Angular*  
+*Liquibase, Hibernate, PL/SQL, Git, Jenkins, Docker* 
 
 - Official Handball referee (1 year)    
 I've been doing this only 1 year officially, but I was brought to arbiter during my 15 years of Handball as a player.

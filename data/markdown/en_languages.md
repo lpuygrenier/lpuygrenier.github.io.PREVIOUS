@@ -1,9 +1,9 @@
 C/C++   
-C#  
+C# (Unity & Dotnet)  
 Python   
-Java / J2EE / JSF
+Java / J2EE / JSF  
 HTML5/CSS  
-JavaScript/TypeScript  
+JavaScript/TypeScript (React, Angular, Vue, Nodejs)  
 SQL (Oracle & Postgre SQL)  
 Assembly  
 Ocaml    

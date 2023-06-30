@@ -29,9 +29,9 @@ def toHtml(buffer) :
 def toFrench(buffer) :
 	return translator.translate(buffer)
 
-with open("js\\markdown_content.js", "w", encoding="utf-8") as markdown_content: #open desination file
-	for filename in listDir("data\\markdown") :
-		with open("data\\markdown\\" + filename) as enFile :
+with open("js/markdown_content.js", "w", encoding="utf-8") as markdown_content: #open desination file
+	for filename in listDir("data/markdown") :
+		with open("data/markdown/" + filename) as enFile :
 			data = read(enFile)
 			# write engliah part
 			write(markdown_content, format(toHtml(data), filename[:-3])) 
