@@ -3,6 +3,11 @@
 	    - JavaServerFaces / Spring / PostgreSQL / Liquibase / Hibernate
   
 - Projects during my master degree
+    - Graph visualization with web interface (for a real client)
+      - NodeJS
+      - React
+      - Cytoscape (for graph)
+      - Figma (Prototype design)
     - Bigdata processing with web interface
         - Hadoop (Map Reduce)
         - Spark

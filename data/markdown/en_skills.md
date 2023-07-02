@@ -32,3 +32,4 @@
 - Regular expression and finite automata  
 - Maths logic and proof  
 	- Recognizable, decidablem expspace, exptime, Np's and P problems
+- Prototype design
